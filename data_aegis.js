@@ -78,7 +78,7 @@ const dataAegis = [
 	},
 	{
 		nama_lengkap: "Helmi Bagus Wijanarko",
-		nama_panggilan: "Helmi",
+		nama_panggilan: "Helmibagus",
 		nomor_telepon: 895348805160,
 		id_line: "Helmibagus1",
 		tanggal_lahir: "09/02/2001",
